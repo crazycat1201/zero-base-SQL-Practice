@@ -4,9 +4,6 @@ custstate 지역 중 WA 지역에 사는 사람과  WA 가 아닌 지역에 사는 사람을 구분해서 
  - customerid 와,  newstate_flag 컬럼으로 구성해주세요 .
  - newstate_flag 컬럼은 WA 와 OTHERS 로  노출해주시면 됩니다.
 
-select *
-from customers as c
- 
      답 SQL 은 여기 
 
 select customerid,
