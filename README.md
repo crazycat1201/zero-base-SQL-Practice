@@ -1,4 +1,4 @@
-# SQL-Practice
+# 내 생각대로 SQL 과제 풀이
 SQL 연습문제 풀이
 
 
