@@ -14,4 +14,4 @@ select customerid,
 		when custstate = 'WA' then custstate
 		else 'OTHERS'
 	end as newstate_flag
-from customers as c 
+from customers as c
